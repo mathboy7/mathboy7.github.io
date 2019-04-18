@@ -21,9 +21,7 @@ locale                   : "en-US"
 title                    : "Mathboy's pwnable world"
 title_separator          : "-"
 name                     : "Nakhyun Kim"
-description              : "I'm 19yo CTF player from LeaveCat (also known as GozolSuperRichMen), koreanbadass. 
-Working at Theori as security researcher.
-Usually study write-up of past CTF challenge or root-cause/exploit of 1-day bugs at Browsers.
+description              : "I'm 19yo CTF player from LeaveCat (also known as GozolSuperRichMen), koreanbadass. Working at Theori as security researcher. Usually study write-up of past CTF challenge or root-cause/exploit of 1-day bugs at Browsers.
 "
 url                      : "https://mathboy7.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
