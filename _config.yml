@@ -110,9 +110,7 @@ analytics:
 author:
   name             : "Nakhyun Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm 19yo CTF player from LeaveCat (also known as GozolSuperRichMen), koreanbadass. 
-  Working at Theori as security researcher. 
-  Usually study write-up of past CTF challenge or root-cause/exploit of 1-day bugs at Browsers.."
+  bio              : "I'm 19yo CTF player from LeaveCat (also known as GozolSuperRichMen), koreanbadass. Working at Theori as security researcher. Usually study write-up of past CTF challenge or root-cause/exploit of 1-day bugs at Browsers."
   location         : "Seoul, Republic of Korea"
   email            : hackingmitsuha@gmail.com
   links:
@@ -124,16 +122,16 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/mathboy770"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/profile.php?id=100006506891500"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/mathboy7"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/hackingmitsuha/"
 
 # Site Footer
 footer:
